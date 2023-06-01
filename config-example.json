@@ -1,0 +1,8 @@
+{
+  "discord-token": "",
+  "counting": {
+    "counting-fail-role-id": 1,
+    "time-out-minutes": 5,
+    "time-out-text": "You failed the counting bot so you get a timeout!"
+  }
+}
